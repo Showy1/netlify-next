@@ -3,7 +3,7 @@ backend:
   # name: git-gateway
   name: github
   repo: Showy1/netlify-next
-  base_url: netlify-next.vercel.app/
+  base_url: http://netlify-next.vercel.app/
   auth_endpoint: api/auth/
 media_folder: public/img
 public_folder: img
