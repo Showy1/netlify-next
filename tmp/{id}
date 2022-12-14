@@ -1,0 +1,5 @@
+{
+  "name": "test {id}",
+  "description": "test NFT Metadata",
+  "image": "https://raw.githubusercontent.com/Showy1/netlify-next/main/public/luffy.png"
+}
